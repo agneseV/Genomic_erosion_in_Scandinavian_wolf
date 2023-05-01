@@ -1,0 +1,7 @@
+This repository consists of perl scripts used to produce results published in research article:
+Viluma A, Flagstad Ø, Åkesson M, Wikenros C, Sand H, Wabakken P, Ellegren H. 
+Whole-genome resequencing of temporally stratified samples reveals substantial loss of haplotype diversity in the highly inbred Scandinavian wolf population. 
+Genome Res. 2022 Mar;32(3):449-458. doi: 10.1101/gr.276070.121. Epub 2022 Feb 8. PMID: 35135873; PMCID: PMC8896455.
+
+Full analysis pipeline can be found in the Supplemental_Code.txt
+https://genome.cshlp.org/content/suppl/2022/01/18/gr.276070.121.DC1/Supplemental_Code.txt
